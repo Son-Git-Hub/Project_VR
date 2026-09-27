@@ -4,7 +4,7 @@
 
 | 항목 | 내용 |
 |---|---|
-| 게임 제목 | **Escape from reality ** |
+| 게임 제목 | Escape from reality |
 | 장르 | 추리 / 어드벤처 / 생존 |
 | 개발 엔진 | Unreal Engine 5.4.4 |
 | 플랫폼 | PC |
